@@ -1,2 +1,5 @@
-# instap-shop-servless
-Coletador de posts e hashtags - Instagram - Azure Functions
+# InstaShop Servless
+## Projeto para testes escalados no Azure utilizando as Functions e coletando dados do instagram.
+
+
+• Este projeto teve como objetivo mostrar todo potencial de escalar filas e funções com o Azure Functions.
